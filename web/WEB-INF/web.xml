@@ -28,7 +28,6 @@
         <param-name>contextConfigLocation</param-name>
         <param-value>
             classpath:spring-servlet.xml,
-            classpath:spring-hibernate.cfg.xml,
             classpath:spring-debug.xml
         </param-value>
     </context-param>
